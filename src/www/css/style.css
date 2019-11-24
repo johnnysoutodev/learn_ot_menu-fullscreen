@@ -73,4 +73,5 @@
   height: 50px;
   background: #ff0 url(../images/open.png);
   z-index: 1;
+  cursor: pointer;
 }
