@@ -17,6 +17,12 @@
   justify-content: center;
   align-items: center;
   overflow-y: auto;
+  transform: scale(0);
+  transition: 0.5s;
+}
+
+#menu-overlay.active{
+  transform: scale(1);
 }
 
 #menu-overlay ul{
