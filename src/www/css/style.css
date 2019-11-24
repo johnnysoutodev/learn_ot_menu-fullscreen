@@ -75,3 +75,8 @@
   z-index: 1;
   cursor: pointer;
 }
+
+#toogleIcon.active{
+  background: #ff0 url(../images/close.png);
+
+}
